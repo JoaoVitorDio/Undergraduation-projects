@@ -5,7 +5,8 @@ Repositório das soluções em C feitas durante o curso de Bacharelados de Siste
 A extensão dos arquivos é .cpp porque a IDE utilizada é o dev C++. (Os compiladores de C++ interpretam códigos em C).
 Todos os projetos podem ser compilados pelo gcc normalmente.
 
-Para utilizar alguma das soluções, basta baixar algum compilador de C para o Windows (Recomendo Codeblocks ou Dev C++); compilar o código e executá-lo.
+Para utilizar alguma das soluções, basta baixar alguma IDE de C para o Windows (Recomendo Codeblocks ou Dev C++; Ambas possuem a funcionalidade de compilar os códigos); abrir o arquivo com o programa baixado, compilar o código e executá-lo. (Essas funcionalidades estão na barra de ferramentas dos programas. No Dev C++, o atalho para salvar + compilar + executar é F11).
+
 Ou, caso utilizes o linux, instale o gcc por meio do comando:
 
 E então, com o gcc já instalado no seu sistema, você pode simplesmente executar este comando no terminal:
