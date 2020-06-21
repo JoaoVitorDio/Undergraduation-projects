@@ -1,0 +1,2 @@
+Os exercícios do URI não possuem documentação e tampouco interação bem definida com o usuário porque é uma plataforma de "competição de programação", e admite a verificação das saídas de forma automática, além de ser ABSOLUTAMENTE exigente com a formatação de saída. 
+A ausência de comentários se dá por serem códigos sem qualquer aplicação ou utilidade real, e que tampoucos serão utilizados por outros alunos/programadores. Todavia, alguns exercícios pedem soluções inteligentes e que exigem um raciocínio interessante.
