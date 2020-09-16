@@ -52,7 +52,7 @@ Sobre o insertion: Ainda a ser feito.
 
 Último comentário do dia: Achei interessante que estou desenvolvendo aos poucos uma prática que julgo muito útil, e percebi que foi relevante e bem presente durante o desenvolvimento desse código em específico: O desenvolvimento do código por partes e com testes graduais, em que é possível rodar partes do programa e testá-las, sem ter de fazer o código inteiro.
 
-Nesse código pontual, foi interessante já ter o código funcionando, enquanto ainda não implementei o insertion, assim como ainda faltam as contagens de troca e comparação do merge, mas já conseguir vê-lo funcionando, com o merge ordenando os vetores:
+Nesse código pontual, foi interessante já ter o código funcionando e conseguir vê-lo funcionando, com o merge ordenando os vetores, enquanto ainda falta a implementação do insertion, assim como ainda faltam as contagens de troca e comparação do merge:
 
 ![Relato merge e insertion](https://user-images.githubusercontent.com/60077147/93302599-a2836600-f7d0-11ea-9686-fdbcec8c0e05.jpg)
 
