@@ -2,6 +2,10 @@
 #include <string.h>
 #include <stdlib.h>
 
+/*  Implemente uma função substituir(str1, str2, str3) que procura
+    pela string str2 dentro da string str1. Ao encontrar str2,
+    substitui sua ocorrência por str3   */
+
 void substituir(char str1[1000], char str2[30], char str3[30]);
 void copia(char *str1, char *str2);
 
@@ -10,8 +14,8 @@ int main()
 
     char string1[1000], string2[30], string3[30];
 
-    strcpy(string1, 
-           "Atirei o pau no gato, mas o gato nao morreu. Dona chica fez alguma coisa e eu nao lembro o resto, mas e so um teste mesmo!");
+    strcpy(string1,
+           "Atirei o pau no gato, mas o gato nao morreu. Dona chica fez alguma coisa e eu nao lembro o resto...");
     strcpy(string2, "gato");
     strcpy(string3, "cachorro");
 
@@ -28,7 +32,7 @@ void substituir(char str1[1000], char str2[30], char str3[30])
     {
         char *backup;
         backup = (char *) calloc(1000, sizeof(char));
-        
+
         int j = 0;                                  //  Ao encontrá-lo, é necessário tirar os caracteres de str2 em str1
         int match = 0;                              //  E fazer um "backup" dos demais caracteres da string
         if (str1[i] == str2[j])                     //  Para então, colocar a str3 concatenada, e depois retornar o resto da str1.
@@ -55,7 +59,7 @@ void substituir(char str1[1000], char str2[30], char str3[30])
         }
         free(backup);
     }
-    
+
 }
 
 void copia(char *str1, char *str2)  //  copia o que está na str1 para a str2 *void copia(*source, *destination);
