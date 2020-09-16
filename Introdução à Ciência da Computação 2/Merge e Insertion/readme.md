@@ -9,7 +9,7 @@ Considerar o conceito de "curto circuito" em C. Por exemplo, na expressão
 
 
 ### Exemplo de entrada e saída:
-####Entrada
+#### Entrada
 1. 
 
         3
@@ -25,7 +25,7 @@ Considerar o conceito de "curto circuito" em C. Por exemplo, na expressão
         58 94 96 32 49 180 11 21
 
 
-###Saída
+### Saída
 1. 
 
         I 4 10 6
