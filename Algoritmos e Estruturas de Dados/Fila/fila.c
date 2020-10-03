@@ -15,7 +15,7 @@ struct fila
 fila_t *criar()
 {
     fila_t *f;
-    f = (fila_t *) calloc(sizeof(fila_t));
+    f = (fila_t *) calloc(1, sizeof(fila_t));
     assert(f != NULL);
 
     f -> total = 0;
