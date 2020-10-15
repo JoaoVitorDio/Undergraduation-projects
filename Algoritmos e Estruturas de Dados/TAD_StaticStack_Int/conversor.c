@@ -1,4 +1,4 @@
-/*  Conversor de decimal para binário feito na disciplina de 
+/*  Conversor de decimal para binário feito na disciplina de
     Algoritmos e Estrutura de Dados -   Exemplo de uso de pilha   */
 
 #include <stdio.h>
@@ -14,18 +14,18 @@ int main()
     int decimal;
     printf("Digite o numero decimal: ");
     scanf("%d", &decimal);
-    
+
     unsigned long long binario = converte(decimal);
     printf("\nBinario: %llu\n", binario);
-    
+
     return 0;
 }
 
 unsigned long long converte(unsigned int decimal)
 {
     pilha p1;
-    cria_pilha(&p1);
-    
+    pilha_cria(&p1);
+
     int quociente = 2, tamanho_vetor = 0;
     while (quociente > 1)
     {
@@ -43,15 +43,15 @@ unsigned long long converte(unsigned int decimal)
     {
         pilha_pop(&p1, &vetor[i]);
     }
-    
-    /*  transformando o vetor de numeros binarios em um numero decimal, por meio de 
+
+    /*  transformando o vetor de numeros binarios em um numero decimal, por meio de
         multiplicações de cada casa decimal por seu respectivo valor na base 10     */
     unsigned long long binario = 0;
     for (int i = 0; i < tamanho_vetor; i++)
     {
         binario += vetor[i] * pow(10, tamanho_vetor - i - 1);
     }
-    
+
     free(vetor);
     pilha_destroy(&p1);
 

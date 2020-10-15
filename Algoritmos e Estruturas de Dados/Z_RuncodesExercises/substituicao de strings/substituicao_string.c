@@ -5,7 +5,10 @@
 #define MAX2 20     /*  Maximum lenght of string with error and
                         of the "correction" string */
 
-/*      Descrição:
+/*
+    Estagiarios PAE que elaboraram o problema: Andre Zanon e Luan Souza
+
+        Descrição:
 
     É comum que ocorram erros de digitação em textos e, redigir o texto de maneira correta, exige certa
     atenção, podendo permanecer algumas ocorrências do erro que passem desapercebidas.
@@ -105,7 +108,7 @@ void exclude_newline (char *string)
 int main()
 {
 
-    while (!feof(stdin))
+    while (1)
     {
         char string1[MAX1];
         if (fgets(string1, sizeof(string1), stdin) == NULL)

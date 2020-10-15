@@ -7,7 +7,7 @@
     Esse código foi importante para estudar o uso e desenvolvimento de TADs e "bibliotecas",
     tanto que foi a primeira aplicação do "makefile" nos nossos códigos (alunos).   */
 
-void cria_pilha(pilha *p1)
+void pilha_cria(pilha *p1)
 {
     p1 -> topo = -1;
     p1 -> vetor = (int *) calloc(1, sizeof(int));
@@ -31,15 +31,18 @@ void pilha_empty(pilha *p1)
 {
     free(p1 -> vetor);
     //  Enviando a pilha todo como argumento porque nosso ponteiro p1 já armazena o seu endereço
-    cria_pilha(p1);
+    pilha_cria(p1);
 }
 
 void pilha_destroy(pilha *p1)
 {
     if (p1 != NULL)
     {
-        free(p1 -> vetor);
-        p1 -> topo = 0;
+        if (p1 -> vetor != NULL)
+        {
+            free(p1 -> vetor);
+            p1 -> topo = 0;
+        }
     }
 }
 
@@ -52,5 +55,27 @@ unsigned char pilha_is_empty(pilha *p1)
     else
     {
         return 0;
+    }
+}
+
+//  Funcao intermediaria usada na funcao pilha_inverte
+void swap (int *num1, int *num2)
+{
+    int temp = *num1;
+    *num1 = *num2;
+    *num2 = temp;
+}
+
+//  Visto que nossa pilha é sequencial e dinâmica, podemos invertê-la
+//  facilmente usando os índices dos vetores.
+void pilha_inverte(pilha *p1)
+{
+    //  Topo armazena o indice do ultimo elemento da pilha, logo
+    //  topo + 1 representa a quantia de elementos
+    int tamanho = (p1 -> topo) + 1;
+    int half = tamanho / 2;
+    for (int i = 0; i < half; i++)
+    {
+        swap(&(p1 -> vetor[i]), &(p1 -> vetor[tamanho - i -1]));
     }
 }
