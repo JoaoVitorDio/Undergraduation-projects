@@ -6,17 +6,10 @@
 
 ### Por que?
 
-No mercado de tecnologia, é super interessante para aqueles que desejam crescer dentro dele que sua evolução seja relevante, constante, e claro, que seus passos sejam documentados. :star2: :rocket: 
+No mercado de tecnologia, é super interessante para aqueles que desejam crescer dentro dele que sua evolução seja relevante, constante, e claro, que seus passos sejam documentados.
 
-Concomitantemente, para que as oportunidades possam aparecer e se encontrar, seja ao indivíduo, seja às potenciais iniciativas que têm demanda de determinado profissional, é necessário que os envolvidos deixem “pegadas digitais :paw_prints: :paw_prints: ” (aos termos do criador de conteúdo @filipedeschamps), ou seja, mostrar ao mundo quem você é, o que você faz, e como você faz. Afinal, como uma empresa com a ideia que se encaixa com o seu perfil poderia adivinhar que você existe e tem o perfil que a empresa precisa, se ela mal sabe que você existe?!
-
-![highresrollsafe](https://user-images.githubusercontent.com/60077147/93292332-b8d2f700-f7bb-11ea-97f9-c858a973a602.jpg)
-
-
-
-Nós, desenvolvedores em geral, temos uma forte ajudinha (*de nós mesmos*) com o [GitHub](https://github.com/ "GitHub"). A plataforma permite que compartilhemos o que estamos fazendo, ~~além de todas as inúmeras ferramentas úteis de versionamento de código (que não deixam de ser o principal motivo de uso da plataforma - creio eu)~~, ou seja, podemos nos expor **ao mundo** sem praticamente qualquer custo, que não seja nosso próprio tempo e disposição em aprender e apresentar projetos e ideias.
-
-**Sendo assim**... tive a ideia de começar a de fato documentar minha trilha pela carreira de tecnologia, não só por meio dos projetos que eu já procurava manter atualizados no GitHub, mas também, anotando, descrevendo e relatando a evolução que sinto durante esse caminho! ~~(Epifanias aleatórias que ocorrem enquanto “codamos”, sabem como é)~~. E tudo será documentado nesse repositório! (Ao menos, no que tange projetos acadêmicos rs) 
+Concomitantemente, para que as oportunidades possam aparecer e se encontrar, seja ao indivíduo, seja às potenciais iniciativas que têm demanda de determinado profissional, é necessário que os envolvidos deixem “pegadas digitais :paw_prints: ” (aos termos do criador de conteúdo @filipedeschamps), ou seja, mostrar ao mundo quem você é, o que você faz, e como você faz.
+**Sendo assim**... Procuro aqui documentar minha trilha pela carreira de tecnologia. (Ao menos, no que tange projetos acadêmicos rs) 
 
 ¯\\_(ツ)_/¯
 
