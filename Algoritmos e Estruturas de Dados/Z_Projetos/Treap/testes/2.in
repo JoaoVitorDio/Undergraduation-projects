@@ -1,0 +1,15 @@
+14
+insercao 34 2
+insercao 35 20
+insercao 25 2
+insercao 12 4
+insercao 10 31
+insercao 20 3
+insercao 21 10
+buscar 10
+buscar 34
+buscar 20
+buscar 18
+impressao posordem
+remocao 20
+impressao posordem

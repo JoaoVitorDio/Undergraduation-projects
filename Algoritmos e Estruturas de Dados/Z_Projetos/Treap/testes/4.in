@@ -1,0 +1,28 @@
+27
+insercao 10 4
+insercao 12 7
+insercao 7 70
+insercao 3 11
+insercao 45 3
+insercao 15 20
+insercao 27 21
+insercao 3 91
+insercao 13 22
+insercao 6 8
+insercao 2 90
+buscar 10
+buscar 12
+impressao ordem
+impressao preordem
+impressao posordem
+remocao 2
+remocao 13
+remocao 10
+remocao 12
+remocao 27
+remocao 1
+buscar 10
+buscar 12
+impressao ordem
+impressao preordem
+impressao posordem

@@ -1,0 +1,11 @@
+10
+insercao 30 5
+insercao 20 2
+insercao 40 4
+insercao 70 10
+insercao 50 15
+insercao 20 18
+impressao preordem
+impressao largura
+remocao 50
+impressao ordem

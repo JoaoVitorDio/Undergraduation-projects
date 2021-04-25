@@ -1,0 +1,31 @@
+30
+insercao 1 2
+insercao 2 5
+insercao 3 6
+insercao 4 12
+insercao 5 1
+insercao 6 10
+insercao 1 4
+insercao 7 15
+insercao 8 14
+insercao 9 16
+insercao 10 7
+insercao 11 18
+insercao 12 21
+insercao 13 22
+insercao 14 17
+insercao 15 3
+insercao 15 5
+insercao 17 19
+insercao 18 20
+insercao 19 23
+buscar 45 
+buscar 10
+buscar 12
+buscar 18
+buscar 20
+impressao largura
+remocao 21
+remocao 1
+impressao preordem
+impressao largura
