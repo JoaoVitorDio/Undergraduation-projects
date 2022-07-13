@@ -1,0 +1,92 @@
+		Braba Log
+A Braba Log está gastando demais com combustíveis. Sendo assim, o patrão pediu pra você, zica do BSI, achar a melhor cidade para estabelecer um CDD(centro de distribuição de mercadorias) da empresa. Além do CDD, o boss quer saber qual é a cidade mais periférica da malha logistica e qual é a cidade mais distante da cidade mais periférica.
+
+	Qual é a ideia?
+
+Será fornecida a malha logística da empresa. Cada cidade(nó) está ligada por uma rodovia(aresta), a cidade está posicionada no mapa(plano cartesiano) por meio de suas coordenadas geográficas(X, Y). Já sacou que a distância entre as cidades(peso das arestas) será dada pela distância euclidiana, certo?
+
+Dito de outra forma, ache:
+
+O vértice mais central
+O vértice mais periférico
+O vértice mais distante do vértice mais periférico
+
+	Entradas do exercício
+Você deverá ler a entrada na seguinte ordem:
+
+Numero de nós
+Nós, composto pelas coordenadas do plano cartesiano "x,y"
+Numero de arestas
+Arestas, ligando os nos "X1,Y1":"X2,Y2"
+
+Exemplo:
+10
+0,0
+3,7
+10,4
+2,9
+4,3
+7,1
+8,5
+9,10
+5,8
+6,2
+40
+0,0:4,3
+0,0:6,2
+0,0:7,1
+3,7:2,9
+3,7:5,8
+3,7:4,3
+10,4:8,5
+10,4:7,1
+10,4:6,2
+10,4:9,10
+2,9:3,7
+2,9:5,8
+2,9:4,3
+4,3:0,0
+4,3:3,7
+4,3:2,9
+4,3:6,2
+4,3:7,1
+7,1:0,0
+7,1:10,4
+7,1:4,3
+7,1:6,2
+7,1:8,5
+8,5:10,4
+8,5:7,1
+8,5:6,2
+8,5:9,10
+8,5:5,8
+9,10:5,8
+9,10:8,5
+9,10:10,4
+5,8:3,7
+5,8:2,9
+5,8:9,10
+5,8:8,5
+6,2:0,0
+6,2:10,4
+6,2:4,3
+6,2:7,1
+6,2:8,5
+
+	Saída esperada
+Vértice mais central
+Vértice mais periférico
+Vértice mais distante do vertice mais periférico
+
+Exemplo, a partir das entradas anteriores:
+6,2
+0,0
+9,10
+
+
+	Dicas
+Aproveitem da estrutura que desenvolvemos em sala
+Usem a estrutura já existente do vértice para armazenar os dados das cidades
+Leia os dados com o Scanner e não se esqueça do nextLine() e nextInt()
+Usem o algoritmo de Floyd-Warshall
+Polimorfismo salva vidas

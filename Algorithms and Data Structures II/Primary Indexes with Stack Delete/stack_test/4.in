@@ -1,0 +1,14 @@
+insert 1,Raymond,Adeline,Sistemas de informacao,2
+insert 2,Jeanne,Alice,Ciencia da computacao,6
+insert 3,Gregory,Alicia,Engenharia da computacao,0
+insert 4,Elizabeth,Alla,Sistemas de informacao,1
+insert 5,Carl,Alma,Ciencia da computacao,7
+delete 4
+insert 6,Amy,Amy,Engenharia da computacao,3
+insert 7,Herman,Amy,Sistemas de informacao,9
+search 4
+insert 8,Scott,Andrea,Ciencia da computacao,2
+insert 9,Sandra,Andrew,Engenharia da computacao,8
+insert 10,Dennis,Angela,Sistemas de informacao,10
+sequential
+exit

@@ -1,0 +1,430 @@
+insert 1,Raymond,Adeline,Sistemas de informacao,2
+insert 2,Jeanne,Alice,Ciencia da computacao,6
+insert 3,Gregory,Alicia,Engenharia da computacao,0
+insert 4,Elizabeth,Alla,Sistemas de informacao,1
+insert 5,Carl,Alma,Ciencia da computacao,7
+insert 6,Amy,Amy,Engenharia da computacao,3
+insert 7,Herman,Amy,Sistemas de informacao,9
+insert 8,Scott,Andrea,Ciencia da computacao,2
+insert 9,Sandra,Andrew,Engenharia da computacao,8
+insert 10,Dennis,Angela,Sistemas de informacao,10
+insert 11,Scott,Angelina,Ciencia da computacao,9
+insert 12,Olive,Anita,Engenharia da computacao,0
+insert 13,Angelina,Anne,Sistemas de informacao,6
+insert 14,James,Anthony,Ciencia da computacao,2
+insert 15,Kacy,Antonio,Engenharia da computacao,2
+insert 16,Alicia,April,Sistemas de informacao,7
+insert 17,Juanita,Arlene,Ciencia da computacao,8
+insert 18,William,Arthur,Engenharia da computacao,2
+insert 19,Laurette,Augusta,Sistemas de informacao,2
+insert 20,Perry,Barbara,Ciencia da computacao,6
+insert 21,Randal,Benjamin,Engenharia da computacao,6
+insert 22,Jean,Bernard,Sistemas de informacao,5
+insert 23,Mary,Bertha,Ciencia da computacao,0
+insert 24,Jeff,Beverly,Engenharia da computacao,7
+insert 25,Steven,Bill,Sistemas de informacao,1
+insert 26,Sara,Billy,Ciencia da computacao,3
+insert 27,Karen,Brandon,Engenharia da computacao,10
+insert 28,Jeffrey,Brent,Sistemas de informacao,5
+insert 29,John,Brian,Ciencia da computacao,10
+insert 30,Adeline,Brittany,Engenharia da computacao,8
+insert 31,Dorothy,Bruce,Sistemas de informacao,3
+insert 32,Richard,Carl,Ciencia da computacao,6
+insert 33,Evan,Carl,Engenharia da computacao,6
+insert 34,Maxine,Carl,Sistemas de informacao,8
+insert 35,Anne,Cassandra,Ciencia da computacao,1
+insert 36,Kristina,Chris,Engenharia da computacao,2
+insert 37,Dollie,Christine,Sistemas de informacao,0
+insert 38,Joy,Christopher,Ciencia da computacao,7
+insert 39,Ernest,Clara,Engenharia da computacao,2
+insert 40,Michael,Connie,Sistemas de informacao,4
+insert 41,Bruce,Cynthia,Ciencia da computacao,2
+insert 42,Deborah,Cynthia,Engenharia da computacao,5
+insert 43,Alice,Darryl,Sistemas de informacao,6
+insert 44,Patricia,David,Ciencia da computacao,8
+insert 45,Augusta,David,Engenharia da computacao,7
+insert 46,David,Dean,Sistemas de informacao,10
+insert 47,Andrea,Deanna,Ciencia da computacao,0
+insert 48,Jason,Deborah,Engenharia da computacao,1
+insert 49,Terence,Dennis,Sistemas de informacao,1
+insert 50,Mark,Diane,Ciencia da computacao,0
+insert 51,Brent,Diane,Engenharia da computacao,9
+insert 52,Jill,Dollie,Sistemas de informacao,5
+insert 53,Donald,Donald,Ciencia da computacao,1
+insert 54,Russell,Donald,Engenharia da computacao,7
+insert 55,Leisa,Donna,Sistemas de informacao,7
+insert 56,Jennifer,Dora,Ciencia da computacao,5
+insert 57,Majorie,Dorothy,Engenharia da computacao,8
+insert 58,Rosetta,Dorothy,Sistemas de informacao,7
+insert 59,Kerry,Duane,Ciencia da computacao,9
+insert 60,Connie,Elfrieda,Engenharia da computacao,0
+insert 61,Gary,Elizabeth,Sistemas de informacao,3
+insert 62,Hester,Eloise,Ciencia da computacao,4
+insert 63,Troy,Emilio,Engenharia da computacao,4
+insert 64,Steven,Emily,Sistemas de informacao,9
+insert 65,Steven,Eric,Ciencia da computacao,4
+insert 66,Dorothy,Erin,Engenharia da computacao,5
+insert 67,Gregory,Ernest,Sistemas de informacao,8
+insert 68,Linda,Eugene,Ciencia da computacao,2
+insert 69,Andrew,Evan,Engenharia da computacao,8
+insert 70,Antonio,Evon,Sistemas de informacao,1
+insert 71,Erin,Fern,Ciencia da computacao,2
+insert 72,Stanley,Fernando,Engenharia da computacao,3
+insert 73,Brittany,Fonda,Sistemas de informacao,2
+insert 74,Rose,Francis,Ciencia da computacao,2
+insert 75,Bernard,Garrett,Engenharia da computacao,0
+insert 76,Anthony,Gary,Sistemas de informacao,9
+insert 77,Amy,Gene,Ciencia da computacao,5
+insert 78,Deanna,Gerald,Engenharia da computacao,10
+insert 79,Eloise,Gladys,Sistemas de informacao,6
+insert 80,Maria,Grace,Ciencia da computacao,9
+insert 81,Patty,Gregory,Engenharia da computacao,4
+insert 82,Lucille,Gregory,Sistemas de informacao,0
+insert 83,Sheena,Gregory,Ciencia da computacao,2
+insert 84,Anita,Harold,Engenharia da computacao,3
+insert 85,James,Heather,Sistemas de informacao,8
+insert 86,Emilio,Helena,Ciencia da computacao,10
+insert 87,Gregory,Herman,Engenharia da computacao,7
+insert 88,Phillip,Hester,Sistemas de informacao,8
+insert 89,Rose,Hugh,Ciencia da computacao,8
+insert 90,Brian,James,Engenharia da computacao,8
+insert 91,Eric,James,Sistemas de informacao,6
+insert 92,Benjamin,Jana,Ciencia da computacao,8
+insert 93,Helena,Jason,Engenharia da computacao,5
+insert 94,April,Jason,Sistemas de informacao,0
+insert 95,Arthur,Jason,Ciencia da computacao,0
+insert 96,Jason,Jean,Engenharia da computacao,10
+insert 97,Tierra,Jeanne,Sistemas de informacao,3
+insert 98,Cynthia,Jeff,Ciencia da computacao,0
+insert 99,Harold,Jeffrey,Engenharia da computacao,4
+insert 100,Duane,Jeffrey,Sistemas de informacao,10
+insert 101,Myrtle,Jeffrey,Ciencia da computacao,4
+insert 102,Lauren,Jennifer,Engenharia da computacao,3
+insert 103,Diane,Jennifer,Sistemas de informacao,3
+insert 104,Patricia,Jenny,Ciencia da computacao,8
+insert 105,John,Jill,Engenharia da computacao,9
+insert 106,Judith,Jimmy,Sistemas de informacao,2
+insert 107,Fonda,John,Ciencia da computacao,3
+insert 108,Donna,John,Engenharia da computacao,1
+insert 109,Gene,John,Sistemas de informacao,1
+insert 110,Darryl,John,Ciencia da computacao,1
+insert 111,Carl,Joy,Engenharia da computacao,0
+insert 112,Barbara,Juanita,Sistemas de informacao,0
+insert 113,Mildred,Judith,Ciencia da computacao,2
+insert 114,Ruth,Kacey,Engenharia da computacao,3
+insert 115,Robert,Kacy,Sistemas de informacao,5
+insert 116,Penny,Karen,Ciencia da computacao,2
+insert 117,Lizzie,Kenneth,Engenharia da computacao,1
+insert 118,Kenneth,Kerry,Sistemas de informacao,7
+insert 119,Hugh,Kristina,Ciencia da computacao,8
+insert 120,Brandon,Larry,Engenharia da computacao,6
+insert 121,William,Laura,Sistemas de informacao,1
+insert 122,Evon,Lauren,Ciencia da computacao,3
+insert 123,Mary,Laurette,Engenharia da computacao,7
+insert 124,Nellie,Leisa,Sistemas de informacao,0
+insert 125,Laura,Leonard,Ciencia da computacao,5
+insert 126,Jana,Leonard,Engenharia da computacao,8
+insert 127,Mark,Linda,Sistemas de informacao,5
+insert 128,Jason,Linda,Ciencia da computacao,3
+insert 129,Chris,Lizzie,Engenharia da computacao,3
+insert 130,Jeffrey,Lonnie,Sistemas de informacao,9
+insert 131,Nellie,Lorelei,Ciencia da computacao,9
+insert 132,Christine,Lucille,Engenharia da computacao,4
+insert 133,Heather,Majorie,Sistemas de informacao,4
+insert 134,Mary,Maria,Ciencia da computacao,7
+insert 135,Alma,Maria,Engenharia da computacao,2
+insert 136,Billy,Marie,Sistemas de informacao,10
+insert 137,Michael,Marion,Ciencia da computacao,8
+insert 138,Yolanda,Mark,Engenharia da computacao,7
+insert 139,Lonnie,Mark,Sistemas de informacao,7
+insert 140,Bill,Mary,Ciencia da computacao,0
+insert 141,Fern,Mary,Engenharia da computacao,6
+insert 142,Donald,Mary,Sistemas de informacao,3
+insert 143,Patricia,Maxine,Ciencia da computacao,2
+insert 144,Marion,Michael,Engenharia da computacao,8
+insert 145,Cassandra,Michael,Sistemas de informacao,4
+insert 146,Bertha,Michael,Ciencia da computacao,2
+insert 147,Timothy,Mildred,Engenharia da computacao,4
+insert 148,Elfrieda,Mildred,Sistemas de informacao,10
+insert 149,Leonard,Myrtle,Ciencia da computacao,9
+insert 150,Jeffrey,Nellie,Engenharia da computacao,4
+insert 151,Sheron,Nellie,Sistemas de informacao,1
+insert 152,Gerald,Noe,Ciencia da computacao,6
+insert 153,Roger,Olive,Engenharia da computacao,6
+insert 154,Paula,Patricia,Sistemas de informacao,2
+insert 155,Patsy,Patricia,Ciencia da computacao,2
+insert 156,Linda,Patricia,Engenharia da computacao,6
+insert 157,Fernando,Patsy,Sistemas de informacao,2
+insert 158,Noe,Patty,Ciencia da computacao,1
+insert 159,Lorelei,Paula,Engenharia da computacao,9
+insert 160,Terri,Pauline,Sistemas de informacao,6
+insert 161,Leonard,Penny,Ciencia da computacao,1
+insert 162,Jimmy,Perry,Engenharia da computacao,5
+insert 163,Dean,Phillip,Sistemas de informacao,5
+insert 164,Jenny,Rachel,Ciencia da computacao,8
+insert 165,Michael,Randal,Engenharia da computacao,10
+insert 166,Carl,Raymond,Sistemas de informacao,8
+insert 167,Rachel,Richard,Ciencia da computacao,8
+insert 168,William,Robert,Engenharia da computacao,8
+insert 169,Beverly,Robert,Sistemas de informacao,2
+insert 170,Maria,Roberto,Ciencia da computacao,6
+insert 171,Christopher,Roger,Engenharia da computacao,1
+insert 172,Diane,Rose,Sistemas de informacao,3
+insert 173,Susan,Rose,Ciencia da computacao,0
+insert 174,Larry,Rosetta,Engenharia da computacao,0
+insert 175,Dora,Russell,Sistemas de informacao,0
+insert 176,Francis,Ruth,Ciencia da computacao,8
+insert 177,Alla,Sandra,Engenharia da computacao,10
+insert 178,David,Sara,Sistemas de informacao,9
+insert 179,Jennifer,Scott,Ciencia da computacao,6
+insert 180,Vincent,Scott,Engenharia da computacao,9
+insert 181,Eugene,Sheena,Sistemas de informacao,3
+insert 182,Grace,Sheron,Ciencia da computacao,7
+insert 183,Roberto,Stanley,Engenharia da computacao,2
+insert 184,Marie,Stephanie,Sistemas de informacao,0
+insert 185,Pauline,Steven,Ciencia da computacao,7
+insert 186,John,Steven,Engenharia da computacao,9
+insert 187,Kacey,Steven,Sistemas de informacao,4
+insert 188,Robert,Susan,Ciencia da computacao,3
+insert 189,Angela,Terence,Engenharia da computacao,9
+insert 190,Tim,Terri,Sistemas de informacao,2
+insert 191,Clara,Tierra,Ciencia da computacao,5
+insert 192,Stephanie,Tim,Engenharia da computacao,7
+insert 193,Garrett,Timothy,Sistemas de informacao,10
+insert 194,Gladys,Troy,Ciencia da computacao,9
+insert 195,Emily,Vincent,Engenharia da computacao,6
+insert 196,Cynthia,William,Sistemas de informacao,5
+insert 197,Arlene,William,Ciencia da computacao,7
+insert 198,Mildred,William,Engenharia da computacao,6
+insert 199,John,Yolanda,Sistemas de informacao,0
+delete 30
+delete 31
+delete 32
+delete 33
+delete 34
+delete 35
+delete 36
+delete 37
+delete 38
+delete 39
+delete 40
+delete 41
+delete 42
+delete 43
+delete 44
+delete 45
+delete 46
+delete 47
+delete 48
+delete 49
+delete 50
+delete 51
+delete 52
+delete 53
+delete 54
+delete 55
+delete 56
+delete 57
+delete 58
+delete 59
+delete 60
+search 1
+search 2
+search 3
+search 4
+search 5
+search 6
+search 7
+search 8
+search 9
+search 10
+search 11
+search 12
+search 13
+search 14
+search 15
+search 16
+search 17
+search 18
+search 19
+search 20
+search 21
+search 22
+search 23
+search 24
+search 25
+search 26
+search 27
+search 28
+search 29
+search 30
+search 31
+search 32
+search 33
+search 34
+search 35
+search 36
+search 37
+search 38
+search 39
+search 40
+search 41
+search 42
+search 43
+search 44
+search 45
+search 46
+search 47
+search 48
+search 49
+search 50
+search 51
+search 52
+search 53
+search 54
+search 55
+search 56
+search 57
+search 58
+search 59
+search 60
+search 61
+search 62
+search 63
+search 64
+search 65
+search 66
+search 67
+search 68
+search 69
+search 70
+search 71
+search 72
+search 73
+search 74
+search 75
+search 76
+search 77
+search 78
+search 79
+search 80
+search 81
+search 82
+search 83
+search 84
+search 85
+search 86
+search 87
+search 88
+search 89
+search 90
+search 91
+search 92
+search 93
+search 94
+search 95
+search 96
+search 97
+search 98
+search 99
+search 100
+search 101
+search 102
+search 103
+search 104
+search 105
+search 106
+search 107
+search 108
+search 109
+search 110
+search 111
+search 112
+search 113
+search 114
+search 115
+search 116
+search 117
+search 118
+search 119
+search 120
+search 121
+search 122
+search 123
+search 124
+search 125
+search 126
+search 127
+search 128
+search 129
+search 130
+search 131
+search 132
+search 133
+search 134
+search 135
+search 136
+search 137
+search 138
+search 139
+search 140
+search 141
+search 142
+search 143
+search 144
+search 145
+search 146
+search 147
+search 148
+search 149
+search 150
+search 151
+search 152
+search 153
+search 154
+search 155
+search 156
+search 157
+search 158
+search 159
+search 160
+search 161
+search 162
+search 163
+search 164
+search 165
+search 166
+search 167
+search 168
+search 169
+search 170
+search 171
+search 172
+search 173
+search 174
+search 175
+search 176
+search 177
+search 178
+search 179
+search 180
+search 181
+search 182
+search 183
+search 184
+search 185
+search 186
+search 187
+search 188
+search 189
+search 190
+search 191
+search 192
+search 193
+search 194
+search 195
+search 196
+search 197
+search 198
+search 199
+exit
