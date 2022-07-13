@@ -1,61 +1,41 @@
-# Projetos em Software - Graduação :mortar_board: :mortar_board:
+# Software Projects - Graduation 
 
-### O que é esse repositório?
+### What is this repository?
 
-É um repositório das soluções *sobretudo, na linguagem C* elaboradas pelo estudante João Vitor D. durante o curso **Bacharelado em Sistemas de Informação** no [Instituto de Ciências Matemáticas e de Computação](https://www.icmc.usp.br/ "Instituto de Ciências Matemáticas e de Computação") da **[Universidade de São Paulo](https://www5.usp.br/ "Universidade de São Paulo")**.
+It is a repository of exercises and some project solutions *mainly, in the C language* developed by the student João Vitor D. during the course **Bachelor of Information Systems** at the [Institute of Mathematical and Computer Science](https://www.icmc. usp.br/ "Institute of Mathematical and Computer Science") of **[Universidade de São Paulo](https://www5.usp.br/ "Universidade de São Paulo")**.
 
-### Por que?
+### Why?
 
-No mercado de tecnologia, é super interessante para aqueles que desejam crescer dentro dele que sua evolução seja relevante, constante, e claro, que seus passos sejam documentados.
+In the technology market, it is very interesting for those who want to grow within it that their evolution is relevant, constant, and of course, that their steps are documented.
 
-Concomitantemente, para que as oportunidades possam aparecer e se encontrar, seja ao indivíduo, seja às potenciais iniciativas que têm demanda de determinado profissional, é necessário que os envolvidos deixem “pegadas digitais :paw_prints: ” (aos termos do criador de conteúdo @filipedeschamps), ou seja, mostrar ao mundo quem você é, o que você faz, e como você faz.
-**Sendo assim**... Procuro aqui documentar minha trilha pela carreira de tecnologia. (Ao menos, no que tange projetos acadêmicos rs) 
+At the same time, so that opportunities can appear and find themselves, whether for the individual or for potential initiatives that have a demand for a particular professional, it is necessary for those involved to leave “digital footprints", that is, show the world who you are, what you do, and how you do it.
+**So**... I tried to document my path through the technology career here. (At least when it comes to academic projects)
 
-¯\\_(ツ)_/¯
+### How is it organized?
 
-### Como está organizado?
+~~Assuming already familiarity with github:~~:
+The repository is divided by subjects (there is no repository for each subject in the course, as not all of them are aimed at software development). The course subjects focused on the study of computer science and the consequent familiarization of the student with software development, are: [Introduction to Computer Science (ICC)](https://github. com/JoaoVitorDio/Projetos-em-C-Graduacao-/tree/master/Introdu%C3%A7%C3%A3o%20%C3%A0%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o %201 "Introduction to Computer Science (ICC)") and [Algorithms and Data Structures (ALGED)](https://github.com/JoaoVitorDio/Projetos-em-C-Graduacao-/tree/master/Algoritmos% 20e%20Structures%20de%20Data "Algorithms and Data Structures (ALGED)").
 
-~~Supondo a já familiaridade com o github:~~:
-O repositório está dividido por matérias (não há um repositório para cada matéria do curso, visto que nem todas são voltadas ao desenvolvimento de software). As matérias do curso voltadas ao estudo da ciência da computação e consequente familiarização do aluno com o desenvolvimento de software, ~~até agora~~, foram/são: [Introdução à Ciência da Computação (ICC)](https://github.com/JoaoVitorDio/Projetos-em-C-Graduacao-/tree/master/Introdu%C3%A7%C3%A3o%20%C3%A0%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%201 "Introdução à Ciência da Computação (ICC)") e [Algoritmos e Estruturas de Dados (ALGED)](https://github.com/JoaoVitorDio/Projetos-em-C-Graduacao-/tree/master/Algoritmos%20e%20Estruturas%20de%20Dados "Algoritmos e Estruturas de Dados (ALGED)").
+In the directory [ICC1](https://github.com/JoaoVitorDio/Projetos-em-C-Graduacao-/tree/master/Introdu%C3%A7%C3%A3o%20%C3%A0%20Ci%C3%AAncia %20da%20Computa%C3%A7%C3%A3o%201 "ICC1"), there're the first steps of a student who definitely knew absolutely nothing about programming, let alone C. The exercises are in ascending order of progress. course and consequent learning of new tools and methods. ~~Yes, the first exercises are embarrassing, but they are no less important for that! Without them, I wouldn't be here, so let them public!~~ There is no directory for classes 1 to 7 because they were lectures and theoretical classes, in pseudocode and introduction to concepts, such as variables, compilers, assemblers, workflows code and the basics of the logic involved in programming.
 
-No diretório [ICC1](https://github.com/JoaoVitorDio/Projetos-em-C-Graduacao-/tree/master/Introdu%C3%A7%C3%A3o%20%C3%A0%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%201 "ICC1"), estão os primeiros passinhos de um aluno que definitivamente não sabia absolutamente nada de programação, quem dirá da linguagem C. Os exercícios estão em ordem crescente de andamento do curso e consequente aprendizado de novas ferramentas e métodos. ~~Sim, os primeiros exercícios dão vergonha, mas nem por isso são menos importantes! Sem eles, eu não estaria aqui, então, que públicos estejam... rs~~ Não há diretório das aulas 1 a 7 porque foram aulas expositivas e teóricas, em pseudocódigo e introdução aos conceitos, como variáveis, compiladores, montadores, fluxos de código e o básico do básico da lógica envolvida na programação.
+At the end of ICC1 and beginning of the second semester - Beginning of the ALGED and ICC2 courses - I started using a [cloud-based Unix environment for development](https://ide.cs50.io/ "cloud-based Unix environment for development"), as well as more interesting tools to debug and monitor the functioning of *-ggdb and Valgrind-* codes and consequently closer contact with the `command line` and the like.
 
-No final de ICC1 e começo do segundo semestre - Começo das disciplinas de ALGED e ICC2 - passei a utilizar um [ambiente Unix baseado em nuvem para o desenvolvimento](https://ide.cs50.io/ "ambiente Unix baseado em nuvem para o desenvolvimento"), assim como ferramentas mais interessantes para debuggar e acompanhar o funcionamento dos códigos *-ggdb e Valgrind-* e consequentemente contato mais próximo com a `linha de comando` e afins. Visto que estou no segundo semestre, os projetos mais recentes estão nesses repositórios.
+### How do I use any of the solutions?
 
-### Como utilizo alguma das soluções?
-
-Por mais que os projetos desenvolvidos até agora, em sua maioria, não tenham grande aplicação prática e comercial, foram super importantes e alguns consideravelmente desafiadores do ponto de vista do **desenvolvimento da lógica de organizar as informações e elaborar uma sequência de passos que faça sentido a uma máquina** (o que é super relevante ao meu ver, já que, infelizmente ~~ou felizmente~~), a vida não é assim:
+As much as the projects developed so far, for the most part, do not have great practical and commercial application, they were super important and some were considerably challenging from the point of view of **development of the logic of organizing the information and elaborating a sequence of steps that makes meaning to a machine** (which is super relevant in my opinion, since, unfortunately ~~or fortunately~~), life is not like this:
 
 ![b9d6de8262241bf9ac45ea28360a426f](https://user-images.githubusercontent.com/60077147/93294909-3d287880-f7c2-11ea-9b07-211c1b823d98.jpg)
 
 
+Some have uses in mathematics, such as the algorithm for calculating the root of newton, or the "prime number printer", or even the program that generates the fibonacci sequence. Some - in the struct and file management part, for example - are small management systems.
 
-Alguns possuem utilidade na matemática, como o algoritmo para cálculo da raíz de newton, ou a "impressora de números primos", ou até mesmo o programa gerador da sequência de fibonacci. Alguns - na parte do estudo de structs e gerenciamento de arquivos, por exemplo - são pequenos sistemas gerenciais.
+If you are interested in executing any of the solutions presented here, it is necessary to compile the `.c code` (in the case of single file programs. Some require linking and use of the CMake tool - The makefile will be in the same directory as the file and more below is the explanation of how it works).
 
-Caso tenha interesse em executar qualquer uma das soluções aqui presente, é necessário compilar o `código .c` (no caso de programas de arquivo único. Alguns requerem linkedição e uso da ferramenta CMake - O makefile estará no mesmo diretório que o arquivo e mais abaixo está a explicação de como funciona).
+To do this, if you have already installed gcc and the development packages, just follow the guide...:
 
-Para isso, caso já tenhas instalado o gcc e os pacotes de desenvolvimento, basta seguir o guia...:
-
-    if (arquivo.c == Único arquivo do diretório())
+    if (file.c == Single file in directory())
     {
-    	printf("Digite no seu terminal linux, dentro do diretório em que o programa foi baixado:\n");
-    	$ gcc nome_do_programa.c -o nome_do_programa
-    	printf("Surgirá magicamente um arquivo executável no diretório atual: 'nome_do_programa'\n");
-    	printf("Para executá-lo, digite:\n);
-    	$ ./nome_do_programa
-    }
-
-Caso utilizes o windows, ~~ou simplesmente seja mais prático~~, recomendo o uso de um ambiente em nuvem baseado em ubuntu para fazer o processo: o [Repl.it](https://repl.it/ "Repl.it").
-Basta criar a conta, criar um repositório e, dentro dele, executar exatamente os mesmos passos descritos acima (ir ao diretório em que colocaste o arquivo - dentro do [Repl.it](https://repl.it/ "Repl.it") - com o terminal e compilar/rodar o executável).
-
-Se o diretório que contém a solução que deseja utilizar possuir mais de um arquivo.c, trata-se de um programa um pouco mais estruturado e provavelmente mais complexo, no sentido de depender de mais funções e afins.
-Nesses casos, cada um desses diretórios constará também um arquivo de nome "*Makefile*", que é o responsável por automatizar o processo de compilação/linkedição/montagem e execução. Basta dar upload/transferir todos os arquivos do diretório do github para o repositório do repl.it e digitar:
-
-    $ make all
-    $ make run
-
-### Por fim...
-
-Qualquer dúvida, seja sobre o repositório e utilização de algo aqui, ou interesse no curso e coisas do tipo, meu email de contato está no perfil do GitHub! 
-
-Sugestões de melhorias nos códigos (ainda que muitos estejam vergonhosos "propositalmente" e poderiam estar muito melhor projetados e desenvolvidos, como foram ~~em sua maioria~~, os primeiros projetos e exercícios que desenvolvi, achei mais interessante deixá-los como estavam para retratar a trilha de maneira mais real, ao invés de consertar códigos que poucas pessoas - ou ninguém - usaria) são totalmente bem vindas e peço que se sintam totalmente à vontade para dar-lhe o pull request!
+    printf("Type in your linux terminal, inside the directory where the program was downloaded:\n");
+    $ gcc program_name.c -o program_name
+    printf("An executable file will magically appear in the current directory: 'program_name'\n");
+    printf("To run it
